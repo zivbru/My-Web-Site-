@@ -1,0 +1,97 @@
+﻿@model IEnumerable<Final.Models.Comment>
+
+@{
+    ViewBag.Title = "Comments";
+}
+
+
+
+
+<!-- Page Title -->
+<div class="section section-breadcrumbs ">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Comments</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div class="container">
+    <div class="row">
+
+        @foreach (var item in Model)
+        {
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="img-thumbnail">
+                        <img class="img-responsive user-photo" src="~/Pictures/@Html.DisplayFor(ModelItem => item.Picture.FileName)">
+
+                    </div>
+                </div>
+            </div>
+            break;
+        }
+        <br />
+        <br />
+
+        <div class=" col-md-8 faq-wrapper">
+            @foreach (var item in Model)
+            {
+
+                <div class="row">
+                    <div class="col-md-1">
+                        <div class="thumbnail">
+                            
+                                <img class="img-responsive user-photo" src="~/Pictures/@Html.DisplayFor(modelItem => item.Pic)">
+                            
+                        </div><!-- /thumbnail -->
+                        </div><!-- /col-sm-1 -->
+
+                        <div class="col-md-10">
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <strong>@Html.DisplayFor(modelItem => item.Writer)</strong> <span class="text-muted">commented on: @Html.DisplayFor(modelItem => item.Date)</span>
+                                    @if (User.Identity.Name.Equals("admin") || (User.Identity.Name.Equals(item.Writer)))
+                                    {
+                                        @Html.ActionLink("Edit |", "Edit", new { id= item.Id})
+                                        @Html.ActionLink(" Delete ", "Delete", new { id = item.Id })
+                                    }
+                                </div>
+                                <div class="panel-body">
+                                    @Html.DisplayFor(modelItem => item.Text)
+                                </div><!-- /panel-body -->
+                            </div><!-- /panel panel-default -->
+                        </div><!-- /col-sm-5 -->
+                    </div><!-- /row -->
+                    }
+
+
+                </div>
+        <!-- Sidebar -->
+                <div class="col-md-4 blog-sidebar">
+                    <h4>Search our Blog</h4>
+
+                    <div class="input-group ">
+                        @using (Html.BeginForm("Search", "Comment", FormMethod.Get))
+                {
+                            <p>
+                                Text:<br /> @Html.TextArea("Text")<br /><br />
+                                <input class="btn btn-md" type="submit" value="Filter" />
+                            </p>
+                }
+
+
+                    </div>
+                </div>
+            </div>
+
+
+        </div><!-- /container -->
+
+        <p>
+            @Html.ActionLink("Back to List", "Index", "Picture")
+        </p>

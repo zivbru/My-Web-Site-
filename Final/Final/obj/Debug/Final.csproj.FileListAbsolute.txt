@@ -1,0 +1,815 @@
+C:\Users\Eran\Desktop\Final\Final\bin\Final.dll.config
+C:\Users\Eran\Desktop\Final\Final\bin\Final.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Final.pdb
+C:\Users\Eran\Desktop\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\Eran\Desktop\Final\Final\bin\EntityFramework.dll
+C:\Users\Eran\Desktop\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\Eran\Desktop\Final\Final\bin\Owin.dll
+C:\Users\Eran\Desktop\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\Eran\Desktop\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\Eran\Desktop\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\Eran\Desktop\Final\Final\bin\System.Web.Razor.dll
+C:\Users\Eran\Desktop\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eran\Desktop\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\Eran\Desktop\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eran\Desktop\Final\Final\bin\WebGrease.dll
+C:\Users\Eran\Desktop\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\Eran\Desktop\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\Eran\Desktop\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\Eran\Desktop\Final\Final\bin\System.Web.Razor.xml
+C:\Users\Eran\Desktop\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\Eran\Desktop\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eran\Desktop\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eran\Desktop\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\Eran\Desktop\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\Eran\Desktop\Final\Final\bin\EntityFramework.xml
+C:\Users\Eran\Desktop\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eran\Desktop\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eran\Desktop\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\Eran\Desktop\Final\Final\obj\Debug\Final.dll
+C:\Users\Eran\Desktop\Final\Final\obj\Debug\Final.pdb
+G:\Final\Final\bin\Final.dll.config
+G:\Final\Final\bin\Final.dll
+G:\Final\Final\bin\Final.pdb
+G:\Final\Final\bin\Antlr3.Runtime.dll
+G:\Final\Final\bin\EntityFramework.dll
+G:\Final\Final\bin\EntityFramework.SqlServer.dll
+G:\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Final\Final\bin\Microsoft.Owin.dll
+G:\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Final\Final\bin\Microsoft.Owin.Security.dll
+G:\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+G:\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+G:\Final\Final\bin\Newtonsoft.Json.dll
+G:\Final\Final\bin\Owin.dll
+G:\Final\Final\bin\System.Web.Helpers.dll
+G:\Final\Final\bin\System.Web.Mvc.dll
+G:\Final\Final\bin\System.Web.Optimization.dll
+G:\Final\Final\bin\System.Web.Razor.dll
+G:\Final\Final\bin\System.Web.WebPages.Deployment.dll
+G:\Final\Final\bin\System.Web.WebPages.dll
+G:\Final\Final\bin\System.Web.WebPages.Razor.dll
+G:\Final\Final\bin\WebGrease.dll
+G:\Final\Final\bin\System.Web.Helpers.xml
+G:\Final\Final\bin\System.Web.Mvc.xml
+G:\Final\Final\bin\System.Web.Optimization.xml
+G:\Final\Final\bin\System.Web.Razor.xml
+G:\Final\Final\bin\System.Web.WebPages.xml
+G:\Final\Final\bin\System.Web.WebPages.Deployment.xml
+G:\Final\Final\bin\System.Web.WebPages.Razor.xml
+G:\Final\Final\bin\Newtonsoft.Json.xml
+G:\Final\Final\bin\Antlr3.Runtime.pdb
+G:\Final\Final\bin\EntityFramework.xml
+G:\Final\Final\bin\EntityFramework.SqlServer.xml
+G:\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Final\Final\bin\Microsoft.Owin.xml
+G:\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Final\Final\bin\Microsoft.Owin.Security.xml
+G:\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+G:\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Final\Final\obj\Debug\Final.dll
+G:\Final\Final\obj\Debug\Final.pdb
+G:\Final\Final\obj\Debug\Final.Migrations.InitialCreate.resources
+G:\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+G:\Final\Final\obj\Debug\Final.Migrations.z.resources
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Final.dll.config
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Final.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Final.pdb
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\EntityFramework.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Owin.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Razor.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\WebGrease.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.Razor.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\EntityFramework.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\obj\Debug\Final.Migrations.InitialCreate.resources
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\obj\Debug\Final.Migrations.z.resources
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\obj\Debug\Final.dll
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\obj\Debug\Final.pdb
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\obj\Debug\Final.Migrations.UserProfilePic.resources
+C:\Users\zivbru\Documents\Visual Studio 2013\Projects\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Final.dll.config
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Final.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Final.pdb
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\EntityFramework.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Owin.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\System.Web.Razor.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\WebGrease.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\System.Web.Razor.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\EntityFramework.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eran\Downloads\Final (1)\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\Eran\Downloads\Final (1)\Final\Final\obj\Debug\Final.Migrations.InitialCreate.resources
+C:\Users\Eran\Downloads\Final (1)\Final\Final\obj\Debug\Final.Migrations.z.resources
+C:\Users\Eran\Downloads\Final (1)\Final\Final\obj\Debug\Final.Migrations.UserProfilePic.resources
+C:\Users\Eran\Downloads\Final (1)\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\Eran\Downloads\Final (1)\Final\Final\obj\Debug\Final.dll
+C:\Users\Eran\Downloads\Final (1)\Final\Final\obj\Debug\Final.pdb
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Final.dll.config
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Final.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Final.pdb
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\EntityFramework.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Owin.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\System.Web.Razor.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\WebGrease.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\System.Web.Razor.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\EntityFramework.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\obj\Debug\Final.Migrations.InitialCreate.resources
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\obj\Debug\Final.Migrations.z.resources
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\obj\Debug\Final.Migrations.UserProfilePic.resources
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\obj\Debug\Final.dll
+C:\Users\shavitas\Desktop\אפליקציות אינטרנטיות\Final 1.2\Final\Final\obj\Debug\Final.pdb
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Final.dll.config
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Final.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Final.pdb
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\EntityFramework.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Owin.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\System.Web.Razor.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\WebGrease.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\System.Web.Razor.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\EntityFramework.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\obj\Debug\Final.Migrations.InitialCreate.resources
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\obj\Debug\Final.Migrations.z.resources
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\obj\Debug\Final.Migrations.UserProfilePic.resources
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\obj\Debug\Final.dll
+C:\Users\Eran\Downloads\Final 1.3\Final 1.3\Final\Final\obj\Debug\Final.pdb
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Final.dll.config
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Final.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Final.pdb
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\EntityFramework.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Owin.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\System.Web.Razor.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\WebGrease.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\System.Web.Razor.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\EntityFramework.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\obj\Debug\Final.Migrations.InitialCreate.resources
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\obj\Debug\Final.Migrations.z.resources
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\obj\Debug\Final.Migrations.UserProfilePic.resources
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\obj\Debug\Final.dll
+C:\Users\Asaf\Desktop\Final 1.4\Final 1.3\Final\Final\obj\Debug\Final.pdb
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Final.dll.config
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Final.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Final.pdb
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Owin.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Razor.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\WebGrease.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Razor.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.Migrations.InitialCreate.resources
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.Migrations.z.resources
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.Migrations.UserProfilePic.resources
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.dll
+C:\Users\zivbru\Desktop\New folder\New folder\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.pdb
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Final.dll.config
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Final.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Final.pdb
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Owin.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Razor.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\WebGrease.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Razor.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.Migrations.InitialCreate.resources
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.Migrations.z.resources
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.Migrations.UserProfilePic.resources
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.dll
+C:\Users\reuvenier\Desktop\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.pdb
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Final.dll.config
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Final.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Final.pdb
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Owin.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Razor.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\WebGrease.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Razor.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.dll
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.pdb
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.Migrations.Pic.resources
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.Migrations.Adress.resources
+C:\Users\zivbru\Desktop\New folder\dddd\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Final.dll.config
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Final.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Final.pdb
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Owin.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Razor.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\WebGrease.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.Razor.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.Migrations.Pic.resources
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.Migrations.Adress.resources
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.dll
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.pdb
+C:\Users\zivbru\Desktop\aaaa\dddd\Final 1.5\Final 1.3\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Final.dll.config
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Final.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Final.pdb
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\EntityFramework.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Owin.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Razor.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\WebGrease.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\EntityFramework.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Razor.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\obj\Debug\Final.Migrations.Pic.resources
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\obj\Debug\Final.Migrations.Adress.resources
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\obj\Debug\Final.dll
+C:\Users\zivbru\Desktop\Final App\Final Complete\Final 2.0\Final\Final\Final\obj\Debug\Final.pdb
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Final.dll.config
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Final.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Final.pdb
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\EntityFramework.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Owin.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Razor.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\WebGrease.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\EntityFramework.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.Razor.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\obj\Debug\Final.Migrations.Pic.resources
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\obj\Debug\Final.Migrations.Adress.resources
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\obj\Debug\Final.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final 2.0\Final\Final\Final\obj\Debug\Final.pdb
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Final.dll.config
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Final.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Final.pdb
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Antlr3.Runtime.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\EntityFramework.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\EntityFramework.SqlServer.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Security.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Newtonsoft.Json.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Owin.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\System.Web.Helpers.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\System.Web.Mvc.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\System.Web.Optimization.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\System.Web.Razor.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\System.Web.WebPages.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\WebGrease.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\EntityFramework.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\EntityFramework.SqlServer.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\System.Web.Helpers.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\System.Web.Mvc.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\System.Web.Optimization.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\System.Web.Razor.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\System.Web.WebPages.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Newtonsoft.Json.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Antlr3.Runtime.pdb
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Security.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\obj\Debug\Final.Migrations.Pic.resources
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\obj\Debug\Final.Migrations.Adress.resources
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\obj\Debug\Final.csproj.GenerateResource.Cache
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\obj\Debug\Final.dll
+C:\Users\zivbru\Downloads\לימודים\שנה ב\סמסטר ב\מעבדת פיתוח אפליקציות\Final App C#\Final Complete\Final\Final\obj\Debug\Final.pdb

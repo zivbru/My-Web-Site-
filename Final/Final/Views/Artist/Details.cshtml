@@ -1,0 +1,119 @@
+﻿@model Final.Models.Artist
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<!-- Page Title -->
+<div class="section section-breadcrumbs">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Artist Details</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <!-- Product Image -->
+            <!--If the artist got an image-->
+            @if (Model.Pictures.Count() != 0)
+            {
+                <div class="col-md-6">
+                    
+                        <img class=" img-thumbnail" src="~/Pictures/@Html.DisplayFor(model => model.Pictures.First().FileName) " alt="Item Name">
+                    
+                </div>
+            }
+            else
+            {
+                <div class="col-md-6">
+                    <div class="img-thumbnail">
+                        <img src="https://ssl.gstatic.com/accounts/ui/avatar_2x.png" alt="Item Name">
+                    </div>
+                </div>
+            }
+
+            <!-- End Product Image & Available Colors -->
+            <!-- Product Summary & Options -->
+            @if (Model.Pictures.Count() != 0)
+            {
+                <div class="col-md-6 product-details">
+                    <h4>@Html.DisplayFor(model => model.Name)'s favorit image</h4>
+                    <div class="price">
+                        <span class="price-was"> $999.99</span>@Html.DisplayFor(model => model.Pictures.First().Price)
+                    </div>
+                </div>
+            }
+            
+        </div>
+    </div>
+</div>
+<!-- Full Description & Specification -->
+<div class="col-sm-12">
+    <div class="tabbable">
+        <!-- Tabs -->
+        <ul class="nav nav-tabs product-details-nav">
+            <li class="active"><a href="#tab1" data-toggle="tab">About me</a></li>
+            <li><a href="#tab2" data-toggle="tab">My prices</a></li>
+        </ul>
+        <!-- Tab Content (Full Description) -->
+        <div class="tab-content product-detail-info">
+            <div class="tab-pane active" id="tab1">
+                <h4>About me</h4>
+                <p>
+                    @Html.DisplayFor(model => model.AboutMe)
+                </p>
+
+                <h4>Details</h4>
+                <table>
+                    <tr>
+                        <td>@Html.DisplayNameFor(model => model.Name)</td>
+                        <td>@Html.DisplayFor(model => model.Name)</td>
+                    </tr>
+
+                    <tr>
+                        <td> @Html.DisplayNameFor(model => model.Age)</td>
+                        <td>@Html.DisplayFor(model => model.Age)</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.DisplayNameFor(model => model.Address)</td>
+                        <td>@Html.DisplayFor(model => model.Address) | @Html.DisplayFor(model => model.City)</td>
+                    </tr>
+                    <tr>
+                        <td>@Html.DisplayNameFor(model => model.Mail)</td>
+                        <td>@Html.DisplayFor(model => model.Mail)</td>
+                    </tr>
+                </table>
+            </div>
+
+            <!-- Tab pictures and prices -->
+            <div class="tab-pane" id="tab2">
+
+                @foreach (var item in Model.Pictures)
+                {
+                    <hr />
+                    <table>
+                        <tr>
+                            <td>Name of the picture : @Html.DisplayFor(modelItem => item.FileName)</td>
+                            <td>Price: @Html.DisplayFor(modelItem => item.Price)</td>
+                        </tr>
+                    </table>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Tab pictures and prices-->
+
+
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

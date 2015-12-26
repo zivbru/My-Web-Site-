@@ -1,0 +1,60 @@
+﻿@model Final.Models.Comment
+@{
+    ViewBag.Title = "Details";
+}
+
+<!-- Page Title -->
+<div class="section section-breadcrumbs ">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Details</h1>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div>
+  
+   
+    <dl class="dl-horizontal">
+       
+        <dt>
+            @Html.DisplayNameFor(model => model.Picture.FileName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Picture.FileName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Writer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Writer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Text)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Text)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+        
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

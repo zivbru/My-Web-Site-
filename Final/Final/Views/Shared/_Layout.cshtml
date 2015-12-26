@@ -1,0 +1,123 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8" />
+    <!--meta name="viewport" content="width=device-width, initial-scale=1.0"-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+
+</head>
+<body>
+    <script>
+    $(document).ready(function () {
+        $("a.fancybox1").fancybox({
+            openEffect: 'none',
+            closeEffect: 'none',
+            closeBtn: true,
+            helpers: {
+                media: {}
+            }
+        });
+    });
+    </script>
+
+
+    <nav class="navbar navbar-default navbar-fixed-top ">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+
+                </button>
+                <a class="navbar-brand" href="/">Brand</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav nav-pills">
+                    <li class="active"><a href="/"><span class="glyphicon glyphicon-home"></span>&nbsp;Home</a></li>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <li>@Html.ActionLink("Artists", "Index", "Artist")</li>
+                        <li>@Html.ActionLink("Pictures", "Index", "Picture")</li>
+                        }
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">More <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Artist Location", "Map", "Home")</li>
+                            <li>@Html.ActionLink("About", "About", "Home")</li>
+                            <li>@Html.ActionLink("Contact Us", "Contact", "Home")</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <ul class="nav navbar-nav navbar-right">
+                    <li>@Html.Partial("_LoginPartial")</li>
+                </ul>
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container-fluid -->
+    </nav>
+
+
+
+
+
+    
+        @RenderBody()
+        <hr />
+    
+
+    <!-- Footer -->
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-footer col-md-3 col-xs-6">
+                    <h3>Learn PhotoShop</h3>
+                    <div class="portfolio-item">
+                        <div class="portfolio-image">
+                            <a class="fancybox1" href="https://www.youtube.com/watch?v=PN_1LVG8Csw"><img src="~/img/oHZbcUFq_400x400.png" alt=" project name"></a>
+                        </div>
+                    </div>
+                </div>
+                
+
+                <div class="col-footer col-md-4 col-xs-6">
+                    <h3>Contacts</h3>
+                    <p class="contact-us-details">
+                        <b>Address:</b> 123 Fake Street, LN1 2ST, Rishon Lezion, Israel<br />
+                        <b>Phone:</b> +972-055-123-456<br />
+                        <b>Fax:</b> +872-03-1234567<br />
+                        <b>Email:</b> <a href="mailto:ErZiAs@com.com">ErZiAs@gmail.com</a>
+                    </p>
+                </div>
+                <div class="col-footer col-md-2 col-xs-6">
+                    <h3>Stay Connected</h3>
+                    <ul class="footer-stay-connected no-list-style">
+                        <li><a href="#" class="facebook"></a></li>
+                        <li><a href="#" class="twitter"></a></li>
+                        <li><a href="#" class="googleplus"></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="footer-copyright">&copy; Eran, Ziv & Asaf 2015. All rights reserved.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,147 @@
+﻿@model IEnumerable<Final.Models.Picture>
+@{
+    ViewBag.Title = "Blog Posts";
+}
+
+
+    <script>
+        $(document).ready(function () {
+            $("a.fancybox").fancybox({
+
+                openOpacity: true,
+                closeOpacity: true,
+                openSpeed: 'slow',
+                openEffect: 'fade',
+                closeEffect: 'fade',
+                closeBtn: true,
+                minWidth: 560,
+                minHeight: 340,
+                maxWidth: 760,
+                maxHeight: 540
+
+            });
+
+        });
+
+
+       
+    </script>
+
+
+
+    <!-- Page Title -->
+    <div class="section section-breadcrumbs ">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>All Pictures</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Posts List -->
+
+    <div class="container">
+
+        <!-- Post -->
+        <div class=" row">
+            
+                <div class="col-md-8 faq-wrapper">
+
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-md-4">
+                            <!-- Post Info -->
+                            <div class="blog-post">
+                                <div class="post-info">
+                                    <div class="post-comments-count">
+                                        @Html.DisplayFor(modelItem => item.Comments.Count) @Html.ActionLink("Comments ", "Details", "Comment", new { id = item.Id }, null)<i class="glyphicon glyphicon-comment icon-white"></i>
+                                    </div>
+                                </div>
+                                <!-- End Post Info -->
+                                <!-- Post Image -->
+                                <a class="fancybox" href="~/Pictures/@Html.DisplayFor(modelItem => item.FileName)"><img src="~/Pictures/@Html.DisplayFor(modelItem => item.FileName)" width="320" height="180" alt="Post Title"></a>
+                                <!-- End Post Image -->
+                                <!-- Post Title & Summary -->
+                                <div class="post-title">
+                                    <h3>@Html.ActionLink("Artist: " + @Html.DisplayFor(modelItem => item.Artist.Name), "Details", "Artist", new { id = item.ArtistId }, null)</h3>
+                                </div>
+                                <div class="post-summary">
+                                    <p>Genre: @Html.DisplayFor(modelItem => item.Genre.Name) |<br /> Price: @Html.DisplayFor(modelItem => item.Price)</p>
+
+                                    <p>
+                                        @if (User.Identity.Name.Equals("admin") || (User.Identity.Name.Equals(item.Artist.Name)))
+                                        {
+                                            @Html.ActionLink("Edit |", "Edit", new { id = item.Id })
+                                            @Html.ActionLink("Delete ", "Delete", new { id = item.Id })
+                                        }
+
+
+                                    </p>
+                                </div>
+                                <!-- End Post Title & Summary -->
+                                <div class="btn btn-grey bottom-right">
+                                    @Html.ActionLink("Add Comment", "AddComment", "Comment", new { id = item.Id }, null)
+                                </div>
+                            </div>
+
+                        </div>
+                    }
+                </div>
+
+
+
+               
+
+
+
+
+
+
+                <!-- Sidebar -->
+                <div class="col-md-4 blog-sidebar">
+                    <h4>Search our Blog</h4>
+
+                    <div class="input-group ">
+                        @using (Html.BeginForm("Search", "Picture", FormMethod.Get))
+                        {
+                            <p>
+                                Genre: <br /> @Html.TextBox("SearchGenre")<br />
+                                File name:<br /> @Html.TextBox("Name")<br />
+                                Price: <br /> @Html.TextBox("Price")<br /><br />
+                                <input class="btn btn-md" type="submit" value="Filter" />
+                            </p>
+                        }
+                    </div>
+
+                    <div class="input-group">
+                        @using (Html.BeginForm("FindDate", "Picture", FormMethod.Get))
+                        {
+                            <div class="col-sm-pull-4">
+                                <p>
+                                    commented after the date:<br /> <input type="date" value="Date" name="Date"><br /><br />
+                                    <input class="btn btn-group-lg" type="submit" value="Filter" />
+                                </p>
+                            </div>
+                        }
+                    </div>
+
+                    <div class="input-group ">
+                        @using (Html.BeginForm("The3MostPopularGenres", "Picture", FormMethod.Get))
+                        {
+                            <div class="span4">
+                                <p>
+                                    <input class="btn btn-md" type="submit" value="Pictures from top 3 Genres" />
+                                </p>
+                            </div>
+                        }
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+  
+    <!-- End Post -->

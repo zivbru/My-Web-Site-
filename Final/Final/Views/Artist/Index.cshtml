@@ -1,0 +1,122 @@
+﻿@model IEnumerable<Final.Models.Artist>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+    <!-- Page Title -->
+    <div class="section section-breadcrumbs">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1>All Artists</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+
+   
+
+    <div class="section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 faq-wrapper">
+                   
+                    @foreach (var item in Model)
+                    {
+
+
+                        <div class="panel-group" id="accordion2">
+                            <div class="panel panel-default">
+                                <div class="panel-heading">
+                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#@Html.DisplayFor(modelItem => item.Id)">
+                                        The Artist @Html.DisplayFor(modelItem => item.Name)<br /><br />
+
+                                        @if (User.Identity.Name.Equals("admin"))
+                                        {
+                                            @Html.ActionLink("Edit |", "Edit", new { id = item.Id })
+                                            @Html.ActionLink(" Delete |", "Delete", new { id = item.Id })
+                                        }
+                                        @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+
+                                        @if (User.Identity.Name.Equals(item.Name))
+                                        {
+                                            @Html.ActionLink("Edit |", "Edit", new { id = item.Id })
+                                            @Html.ActionLink(" Add picture |", "AddPicture", "Picture", new { id = item.Id }, null)
+                                        }
+                                        @Html.ActionLink("View All pictures ", "Details", "Picture", new { id = item.Id }, null)
+
+                                    </a>
+                                </div>
+                                <div id="@Html.DisplayFor(modelItem => item.Id)" class="accordion-body collapse">
+                                    <div class="accordion-inner">
+                                        <div class="answer">Info:</div>
+                                        <p>
+                                            Name: @Html.DisplayFor(modelItem => item.Name) |
+                                            Age:  @Html.DisplayFor(modelItem => item.Age) |
+
+                                            
+                                            Location: @Html.DisplayFor(modelItem => item.Address) | @Html.DisplayFor(modelItem => item.City)
+                                        </p>
+                                        <div class="=container">
+
+
+                                            <div class="row">
+                                                <div class=" col-md-4">
+                                                    <ul class="thumbnails">
+
+
+                                                            <li class="span4"> ProfilePic:  <img src="~/Pictures/@Html.DisplayFor(modelItem => item.UserProfilePic)" class="thumbnail" width="100" height="90" /></li>
+                                                        
+
+                                                    </ul>
+                                                </div>
+                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    }
+                </div>
+
+
+                    <!-- Sidebar -->
+                    <div class="col-md-4 blog-sidebar">
+                        <h4>Search our Blog</h4>
+
+                        <div class="input-group ">
+                            @using (Html.BeginForm("FindPrice", "Artist", FormMethod.Get))
+                            {
+                                <div class="span4">
+                                    <p>
+
+                                        Pictures that cost more than: <br /> @Html.TextBox("price")<br /><br />
+                                        <input class="btn btn-md" type="submit" value="Filter" />
+                                    </p>
+                                </div>
+                            }
+                        </div>
+
+                    <div class="input-group">
+                        @using (Html.BeginForm("Search", "Artist", FormMethod.Get))
+                        {
+                            <p>
+                                City:<br /> @Html.TextBox("SearchCity")<br />
+                                Name:<br /> @Html.TextBox("SearchString")<br />
+                                From Age: <br />@Html.TextBox("age")<br /><br />
+
+                                <input class="btn btn-md" type="submit" value="Filter" />
+                            </p>
+                        }
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
